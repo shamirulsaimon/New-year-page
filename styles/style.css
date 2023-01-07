@@ -231,6 +231,7 @@ input{
     background: #151414;
     border:0.4px solid #FFFFFF;
     border-radius: 5px;
+    padding-left:20px;
 }
 .button{
     font-family: 'Work Sans';
